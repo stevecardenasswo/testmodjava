@@ -1,0 +1,13 @@
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\AssetsManagerApplication.java
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\config\AwsS3Config.java
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\config\RabbitConfig.java
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\controller\HomeController.java
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\controller\S3Controller.java
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\model\ImageMetadata.java
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\model\ImageProcessingMessage.java
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\model\S3StorageItem.java
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\repository\ImageMetadataRepository.java
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\service\AwsS3Service.java
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\service\BackupMessageProcessor.java
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\service\LocalFileStorageService.java
+C:\test\java-migration-copilot-samples-main\asset-manager\web\src\main\java\com\microsoft\migration\assets\service\StorageService.java
